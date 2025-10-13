@@ -48,14 +48,6 @@
 
 ---
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/TalhaProgrammer92/TalhaProgrammer92/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 ### ⚡ Fun Fact  
 I started coding with **GW-BASIC** and built my first house pattern program back in school — that’s where it all began.  
