@@ -54,10 +54,11 @@
 
 ---
 
-
 ### ⚡ Fun Fact  
 I started coding with **GW-BASIC** and built my first house pattern program back in school — that’s where it all began.  
 Now I’m passionate about mastering high-performance **.NET systems** and decoding programming languages.
+
+![snake gif](https://github.com/TalhaProgrammer92/TalhaProgrammer92/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
