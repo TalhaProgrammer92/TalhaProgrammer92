@@ -1,16 +1,5 @@
 <h1 align="center">👋 Hi, I'm Talha Ahmad</h1>
 <h3 align="center">Full Stack .NET Developer | SQL Server | Scalable Solutions</h3>
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 ---
 
@@ -19,6 +8,34 @@
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
 🎯 Focused on backend development, desktop apps, and enterprise-level solutions.
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <!-- Languages -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+<!-- Optional for full .NET ecosystem -->
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/MVVM%20Pattern-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</p>
 
 ---
 
