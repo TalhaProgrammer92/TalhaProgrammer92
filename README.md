@@ -53,7 +53,7 @@
 <!-- Optional Extras -->
 <img src="https://img.shields.io/badge/OOP%20Concepts-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive%20UI-0099CC?style=for-the-badge&logo=windows&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/Responsive%20UI-0099CC?style=for-the-badge&logo=windows&logoColor=white" />-->
 
 </p>
 
