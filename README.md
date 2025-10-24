@@ -102,5 +102,5 @@ Now I’m passionate about mastering high-performance **.NET systems** and decod
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaProgrammer92&show_icons=true&theme=github_dark" height="160px" alt=""/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaProgrammer92&theme=github-dark-blue" height="160px"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaProgrammer92&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="zainabreh" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaProgrammer92&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="zainabreh" />
 </p>
