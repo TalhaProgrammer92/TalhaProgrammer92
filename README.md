@@ -68,7 +68,6 @@
 
 ### 📂 Featured Projects
 - 🔸 [**Pizza Store (.NET Project)**](https://github.com/TalhaProgrammer92/PizzaStore) — Enterprise-grade WPF app implementing layered architecture
-- 🔸 [**Chess Game (Hobby Project)**](https://github.com/TalhaProgrammer92/Chess-Game) - A feature-rich and console based game, breaking all limits of console programming.
 - *(More projects coming soon...)*
 
 ---
