@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About
-<p>I’m a passionate .NET / ASP.NET Developer who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using C#, ASP.NET Core, Web APIs (RESTful), and SQL Server.</p>
+<p>I’m a passionate .NET Developer who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET Core, ASP.NET Core, Web APIs, and SQL Server.</p>
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
 🎯 Focused on backend development, desktop apps, and enterprise-level solutions.
