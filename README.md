@@ -67,8 +67,8 @@
 ---
 
 ### 📂 Featured Projects
-- 🔸 [**Pizza Store (.NET Project)**](https://github.com/TalhaProgrammer92/PizzaStore) — Enterprise-grade WPF app implementing layered architecture
-- *(More projects coming soon...)*
+- 🔸 [**Pizza Store (.NET Project)**](https://github.com/TalhaProgrammer92/PizzaStore) — Enterprise-grade WPF app implementing layered architecture with EF.
+- 🔸 [**Reversi (Python Project)**](https://github.com/TalhaProgrammer92/Reversi-Game) - A feature-rich game for desktop including features like puzzles, matches, etc. and follows proper SoC.
 
 ---
 
