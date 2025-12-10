@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 <!-- Backend / APIs -->
 <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -49,6 +51,9 @@
 <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> -->
 <!--<img src="https://img.shields.io/badge/Azure%20App%20Service-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />-->
+
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 <!-- Optional Extras -->
 <img src="https://img.shields.io/badge/OOP%20Concepts-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
