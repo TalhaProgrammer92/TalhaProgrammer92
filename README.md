@@ -11,16 +11,24 @@
 
 ---
 
-### 🧩 What I’m Currently Working On
-- 🏗️ A **WPF-based .NET application** following Clean Architecture  
-- ⚙️ Implementing **Entity Framework Core** for efficient data handling  
-- 💻 Exploring advanced **Design Patterns** and best practices in C#
-
----
-
-### 📂 Featured Projects
-- 🔸 [**Pizza X (.NET Project)**](https://github.com/TalhaAhmad-Codes/Pizza-X) — Enterprise-grade WPF app implementing layered architecture with EF.
-- 🔸 [**Reversi (Python Project)**](https://github.com/TalhaProgrammer92/Reversi-Game) — A feature-rich game for desktop including features like puzzles, matches, etc. and follows proper SoC.
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-ahmad-720171324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TalhaAhmad-Codes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61585650534820" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/talhaahmadtech/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:talha.ahmad.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -33,3 +41,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaProgrammer92&theme=github-dark-blue" height="160px"/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TalhaProgrammer92&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="zainabreh" />
 </p>
+
+---
