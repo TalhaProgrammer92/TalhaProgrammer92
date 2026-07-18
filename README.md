@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Talha Ahmad</h1>
-<h3 align="center">Full Stack AI & .NET Developer | Azure & SQL Server | Scalable Solutions</h3>
+<h3 align="center">Aspiring Full Stack AI & .NET Developer | Azure & SQL Server | Scalable Solutions</h3>
 
 ---
 
 ### ✨ About
-<p>I’m am aspiring .NET Developer who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET Core ecosystem, AI, Azure and SQL Server.</p>
+<p>I’m a .NET Developer who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET Core ecosystem, AI, Azure and SQL Server.</p>
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
 🎯 Focused on backend development, desktop apps, and smart enterprise-level solutions.
